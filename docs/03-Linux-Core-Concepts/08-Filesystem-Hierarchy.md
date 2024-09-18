@@ -13,7 +13,7 @@ In this section, lets take a look at the **`filesystem hierarchy`**
   - **`/bin`**   : The basic programs such as binaries **`cp`**, **`mv`**, **`mkdir`** are located in the **`/bin`** directory
   - **`/etc`**   : It stores most of the configuration files in Linux.
   - **`/lib`**   : The directory **`/lib`** and **`/lib64`** is the place to look for shared libraries to be imported into your program
-  - **`/usr`**   : In older systems, **`/usr`** directory is used for **`User Home Directories`**, however in the modern linux operating systems it is the location where all user land applciations in their data reside
+  - **`/usr`**   : In older systems, **`/usr`** directory is used for **`User Home Directories`**, however in the modern linux operating systems it is the location where all user land applications in their data reside
   - **`/var`**   : It contains variable data like mails, log files
   
       ![filesystem](../../images/filesystem.PNG)
